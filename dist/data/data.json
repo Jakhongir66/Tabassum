@@ -1,0 +1,64 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Илхом Мирзиёев",
+      "prof": "Стоматолог",
+      "time": "от 9:00 до 18:00",
+      "days":"Пн, Ср, Суб.",
+      "imgSrc": "01",
+      "imgSrcHover": "01_h",
+      "information": "Lorem ipsum dolor"
+    },
+    {
+      "id": 2,
+      "name": "Илхом Мирзиёев",
+      "prof": "Стоматолог",
+      "time": "от 9:00 до 18:00",
+      "days":"Пн, Ср, Пт.",
+      "imgSrc": "01",
+      "imgSrcHover": "01_h",
+      "information": "Lorem ipsum dolor"
+    },
+    {
+      "id": 3,
+      "name": "Илхом Мирзиёев",
+      "prof": "Стоматолог",
+      "time": "от 9:00 до 18:00",
+      "days":"Пн, Ср, Пт.",
+      "imgSrc": "01",
+      "imgSrcHover": "01_h",
+      "information": "Lorem ipsum dolor"
+    },
+    {
+      "id": 4,
+      "name": "Илхом Мирзиёев",
+      "prof": "Стоматолог",
+      "time": "от 9:00 до 18:00",
+      "days":"Пн, Ср, Пт.",
+      "imgSrc": "01",
+      "imgSrcHover": "01_h",
+      "information": "Lorem ipsum dolor"
+    },
+    {
+      "id": 5,
+      "name": "Илхом Мирзиёев",
+      "prof": "Стоматолог",
+      "time": "от 9:00 до 18:00",
+      "days":"Пн, Ср, Пт.",
+      "imgSrc": "01",
+      "imgSrcHover": "01_h",
+      "information": "Lorem ipsum dolor"
+    },
+    {
+      "id": 6,
+      "name": "Илхом Мирзиёев",
+      "prof": "Стоматолог",
+      "time": "от 9:00 до 18:00",
+      "days":"Пн, Ср, Пт.",
+      "imgSrc": "01",
+      "imgSrcHover": "01_h",
+      "information": "Lorem ipsum dolor"
+    }
+  ]
+}

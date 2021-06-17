@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "nav-link1": "Biz haqimizda",
+    "nav-link2": "Videolar",
+    "nav-link3": "Doktorlarimiz",
+    "nav-link4": "Reklama"
+  },
+  "header": {
+    "title": "ru header title",
+    "text": "ru header btn"
+  },
+  "about": {
+    "title": "ru abou title",
+    "text": "ru Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus vulputate\n                  fames\n                  eget integer lorem risus vitae. Laoreet diam egestas donec massa urna enim maecenas senectus. Lacus\n                  scelerisque ac sit tellus egestas. Condimentum adipiscing et, et molestie nunc vulputate lacinia purus\n                  leo",
+    "link": "ru about link"
+  },
+  "services": {
+    "title": "ru Service",
+    "link": "ru pereyti",
+    "box1": {
+      "label": "ru label",
+      "text": "ru Lorem ipsum dolor sit amet, consectetur adipiscing elit. In turpis ut nonmauris. Massa egestas imperdiet amet, felis sit risus amet. Urna, a at hendrerit pretium ullamcorper\n                  quis id diam sem. Viverra ipsum varius laoreet consectetur enim.Lorem ipsum dolor sit amet  consectetuipiscing elit. In turpis ut non mauris. Massa egestas imperdiet amet, felis sit risus amet. Urna, ahendrerit pretium ullamcorper quis id diam sem."
+    },
+    "box2": {
+      "label": "ru label",
+      "text": "ru Lorem ipsum dolor sit amet, consectetur adipiscing elit. In turpis ut nonmauris. Massa egestas imperdiet amet, felis sit risus amet. Urna, a at hendrerit pretium ullamcorper\n                  quis id diam sem. Viverra ipsum varius laoreet consectetur enim.Lorem ipsum dolor sit amet, consectetuipiscing elit. In turpis ut non mauris. Massa egestas imperdiet amet, felis sit risus amet. Urna, ahendrerit pretium ullamcorper quis id diam sem."
+    },
+    "box3": {
+      "label": "ru label",
+      "text": "ru Lorem ipsum dolor sit amet, consectetur adipiscing elit. In turpis ut nonmauris. Massa egestas imperdiet amet, felis sit risus amet. Urna, a at hendrerit pretium ullamcorper\n                  quis id diam sem. Viverra ipsum varius laoreet consectetur enim.Lorem ipsum dolor sit amet  consectetuipiscing elit. In turpis ut non mauris. Massa egestas imperdiet amet, felis sit risus amet. Urna, ahendrerit pretium ullamcorper quis id diam sem."
+    },
+    "box4": {
+      "label": "ru label",
+      "text": "ru Lorem ipsum dolor sit amet, consectetur adipiscing elit. In turpis ut nonmauris. Massa egestas imperdiet amet, felis sit risus amet. Urna, a at hendrerit pretium ullamcorper\n                  quis id diam sem. Viverra ipsum varius laoreet consectetur enim.Lorem ipsum dolor sit amet, consecteturpiscing elit. In turpis ut non mauris. Massa egestas imperdiet amet, felis sit risus amet. Urna, aendrerit pretium ullamcorper quis id diam sem."
+    },
+    "box5": {
+      "label": "ru label",
+      "text": "ru Lorem ipsum dolor sit amet, consectetur adipiscing elit. In turpis ut nonmauris. Massa egestas imperdiet amet, felis sit risus amet. Urna, a at hendrerit pretium ullamcorper\n                  quis id diam sem. Viverra ipsum varius laoreet consectetur enim.Lorem ipsum dolor sit amet, consecteadipiscing elit. In turpis ut non mauris. Massa egestas imperdiet amet, felis sit risus amet. Urna, aendrerit pretium ullamcorper quis id diam sem."
+    }
+  },
+  "doctors": {
+    "title": "ru Bizning shifokorlar",
+    "link": "ru Barchasini korish"
+  },
+  "reviews": {
+    "title": "ru Otziv"
+  },
+  "contact": {
+    "title": "ru contact title",
+    "btn": "ru Yuborish",
+    "label1": "F.I.SH",
+    "label2": "Telefon",
+    "marshrut": "ru Marshrut o'rnatish",
+    "street": "ru CFS TABASSUM, Nasaf Ko'chasi, Тошкент, Uzbekistan"
+  },
+  "price": {
+    "title": "ru price title",
+    "btn": "ru price btn",
+    "card": {
+      "btn": "ru price card btn"
+    },
+    "card1": {
+      "label": "ru card1 label lorem",
+      "text1": "ru card text",
+      "text2": "ru card text",
+      "text3": "ru card text",
+      "text4": "ru card text",
+      "text5": "ru card text",
+      "btext": "ru card btext",
+      "price": "$295"
+    },
+    "card2": {
+      "label": "ru card2 label lorem",
+      "text1": "ru card text",
+      "text2": "ru card text",
+      "text3": "ru card text",
+      "text4": "ru card text",
+      "text5": "ru card text",
+      "btext": "ru card btext",
+      "price": "$295"
+    },
+    "card3": {
+      "label": "ru card3 label lorem",
+      "text1": "ru card text",
+      "text2": "ru card text",
+      "text3": "ru card text",
+      "text4": "ru card text",
+      "text5": "ru card text",
+      "btext": "ru card btext",
+      "price": "$295"
+    }
+  },
+
+  "footer": {
+    "titleContacts": "ru Kontaktlar",
+    "titleWork": "ru Ish vaqti"
+  }
+}
